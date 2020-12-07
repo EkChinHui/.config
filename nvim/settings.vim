@@ -12,6 +12,7 @@ set expandtab
 set smartindent
 set autoindent
 set cursorline
+set incsearch
 set noshowmode
 set relativenumber
 set noerrorbells
